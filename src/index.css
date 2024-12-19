@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header .active {
+  color: dodgerblue;
+}
+#admin .active {
+  color: black;
+  background: white;
+}
